@@ -1,0 +1,61 @@
+a{
+	color: #3b4657;
+	text-decoration: none;
+}
+a:hover{
+	color: #000;
+	text-decoration: none;
+}
+
+.about a{
+	color: #fff;
+}
+
+.img-full{
+	width: 100%;
+}
+
+.article{
+	padding: 3%;
+}
+
+.comment{
+	padding: 3% 3%;
+	background-color: #DEE0E3;
+  	color: #3b4657;
+  	margin-bottom: 2%;
+}
+
+h6{
+	display: inline-block;
+	color: #888;
+}
+
+.pl-7{
+padding-left: 7px;
+}
+
+.mt-2{
+	margin-top: 2%;
+}
+
+.mt-5{
+	margin-top: 5%;
+}
+
+ul{
+	padding: 0%;
+}
+
+li{
+	list-style-type: none;
+}
+
+.pagination>li>a:hover ,.pagination>li>a:active{
+	background-color: #3B4657;
+	color: #fff;
+}
+
+.about h6{
+	color: #fff;
+  }

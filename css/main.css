@@ -1,0 +1,69 @@
+.red-social{
+	background-color: #45D469;
+	padding: 2% 2% 2% 2%;
+	color: white;
+}
+
+.box{
+	display: inline-block;
+	height: 60px;
+	width: 60px;
+	border-radius: 50%;
+	line-height: 30px;
+	color: #fff;
+	margin-top: 64%;
+}
+.fb{
+	background-color:grey;
+	opacity: .5;
+	text-align: center;
+	padding-top: 22%;
+}
+
+.fb:hover{
+	background-color: #fff;
+	color: #5A85D6;
+}
+.list-inline{
+	margin-top: 100%;
+}
+.list-inline i{
+border-radius: 100%;
+border:1px solid grey;
+padding:50%;
+background-color: grey;
+opacity: .5;
+}
+.our-latest{
+	background-color:#F9F2E9;
+	padding: 4% 4% 4% 4%;
+}
+.pagination>li>a{
+background-color:#E94E37;
+}
+.pagination span{
+	color: white;
+}
+.our-clients{
+	background-color:#E94E37;
+	padding: 2% 2% 2% 2%;
+	color: white;
+}
+.our-clients h2{
+	text-align: center;
+	padding: 1%;
+}
+.our-clients p{
+	text-align: center;
+	padding: 1%;
+}
+.our-clients .col-md-6{
+	border-left: 2px solid white;
+}
+.media-object{
+	margin-left: 0% !important;
+}
+.btn{
+	background-color:#E94E37;
+}
+

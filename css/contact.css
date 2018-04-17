@@ -1,0 +1,12 @@
+.form-contact{
+	background-color: #F9F2E9;
+	padding: 3% 3% 3% 3%;
+}
+.form-contact .btn{
+	background-color:#001848;
+	color: white;
+}
+textarea.form-control{
+	margin-top: 16%;
+	padding-bottom: 29%;
+}

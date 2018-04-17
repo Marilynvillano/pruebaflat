@@ -1,0 +1,22 @@
+.btn{
+	background-color:#E94E37;
+}
+.we-do{
+	background-color: #F9F2E9;
+	padding:2% 3% 2% 3%;
+}
+.texto{
+	padding:2%;
+}
+.we-do i{
+	color: white;
+}
+.pull-left {
+	border-radius: 100%;
+	border:1px solid grey;
+	background-color: grey;
+	padding:4% 5% 4% 5%;
+}
+.linea{
+	border-left: 2px solid grey;
+}
